@@ -8,7 +8,7 @@ export default function Contact() {
             <span className="text-foreground">contact.sh</span>
           </h2>
           <p className="text-foreground/60 font-mono">
-            {'//'} Let's discuss infrastructure and automation
+            {'//'} Let&apos;s discuss infrastructure and automation
           </p>
         </div>
         <div className="terminal-border p-8 md:p-12 bg-muted/50">
